@@ -1,0 +1,9 @@
+.container{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background: rgb(11, 7, 93);
+  background: linear-gradient(90deg, rgba(11, 7, 93, 1) 100%, rgba(125, 128, 75, 1) 100%);
+}
